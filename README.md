@@ -7,4 +7,4 @@ These are the repositories of all the TDAH developed games:
 
 **Fill the gas Game Repository**: https://github.com/initUJI/FillTheGasTDAHGame-updated
 
-There's also an apk of the AR minigame that is included in all the other games. It is included as a release in this repository.
+There's also an AR minigame that is included in all the other games. The apk of this minigame is included as a release in this repository.
